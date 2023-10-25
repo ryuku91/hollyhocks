@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     colors: {
-      wed: '#D2D2C6',
+      wed: '#66cdaa',
       'wed-dark': '#6D695D',
     },
     extend: {
